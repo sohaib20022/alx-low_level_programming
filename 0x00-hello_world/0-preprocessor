@@ -1,2 +1,2 @@
 #!/bin/bash
-gss $CFILE -E -o c
+cpp $CFILE c
